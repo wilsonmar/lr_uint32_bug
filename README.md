@@ -12,7 +12,7 @@ Usage
 
 To fix the results in the folder c:\result\file\location, run:
 
-    lr_uint32_bug.py c:\result\file\location
+    fix_lr_uint32.py c:\result\file\location
 
 License
 -------
