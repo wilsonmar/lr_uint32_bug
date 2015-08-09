@@ -13,6 +13,8 @@ Usage
 To fix the results in the folder c:\result\file\location, run:
 
     fix_lr_uint32.py c:\result\file\location\res.lrr
+    
+See http://blog.trustiv.co.uk/2013/05/how-fix-corrupted-loadrunner-results
 
 License
 -------
